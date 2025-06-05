@@ -29,12 +29,12 @@
 
   <RemoteList>
     <!-- The 'name' attribute for each Remote tag must be unique. -->
-    <Remote name="Edk2Repo">https://github.com/NVIDIA/edk2.git</Remote>
-    <Remote name="Edk2PlatformsRepo">https://github.com/NVIDIA/edk2-platforms.git</Remote>
-    <Remote name="Edk2NonOsiRepo">https://github.com/NVIDIA/edk2-non-osi.git</Remote>
-    <Remote name="Edk2NvidiaRepo">https://github.com/NVIDIA/edk2-nvidia.git</Remote>
-    <Remote name="Edk2NvidiaNonOsiRepo">https://github.com/NVIDIA/edk2-nvidia-non-osi.git</Remote>
-    <Remote name="OpenRmRepo">https://github.com/NVIDIA/open-gpu-kernel-modules.git</Remote>
+    <Remote name="Edk2Repo">https://github.xon.one/NVIDIA/edk2.git</Remote>
+    <Remote name="Edk2PlatformsRepo">https://github.xon.one/NVIDIA/edk2-platforms.git</Remote>
+    <Remote name="Edk2NonOsiRepo">https://github.xon.one/NVIDIA/edk2-non-osi.git</Remote>
+    <Remote name="Edk2NvidiaRepo">https://github.xon.one/NVIDIA/edk2-nvidia.git</Remote>
+    <Remote name="Edk2NvidiaNonOsiRepo">https://github.xon.one/NVIDIA/edk2-nvidia-non-osi.git</Remote>
+    <Remote name="OpenRmRepo">https://github.xon.one/NVIDIA/open-gpu-kernel-modules.git</Remote>
   </RemoteList>
 
   <ClientGitHookList>
