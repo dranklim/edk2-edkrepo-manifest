@@ -37,7 +37,7 @@
     <Remote name="Edk2NvidiaRepo">https://github.xon.one/NVIDIA/edk2-nvidia.git</Remote>
     <Remote name="Edk2NvidiaNonOsiRepo">https://github.xon.one/NVIDIA/edk2-nvidia-non-osi.git</Remote>
     <Remote name="OpenRmRepo">https://github.xon.one/NVIDIA/open-gpu-kernel-modules.git</Remote>
-    <Remote name="AvbRepo">https://android.googlesource.com/platform/external/avb</Remote>
+    <Remote name="AvbRepo">https://mirrors.tuna.tsinghua.edu.cn/git/AOSP/platform/external/avb</Remote>
   </RemoteList>
 
   <ClientGitHookList>
